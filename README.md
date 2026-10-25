@@ -6,14 +6,14 @@ LSM Games Studio · *Última actualización: 25 de octubre de 2026*
 
 ## Responsable y contacto
 
-LSM Games Studio es el desarrollador de Memory Workshop: Match 3 (en español, El taller de los Recuerdos), un juego de puzles narrativo en el que juntas gemas iguales para restaurar las joyas de los clientes del taller de tu abuela, desbloquear recuerdos en un álbum y restaurar los muebles del taller. Esta política explica qué información se trata en la versión actual del juego, para qué y con quién se comparte. Para cualquier consulta sobre privacidad puedes escribir a [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com).
+LSM Games Studio es el desarrollador de Memory Workshop: Match 3 (en español, El taller de los Recuerdos), una historia por capítulos, como un libro, que vas desbloqueando al jugar: juntas gemas iguales para reparar las joyas que traen los clientes al taller de tu abuela, y cada nivel superado te abre un recuerdo nuevo, una página del álbum y, al final, el siguiente capítulo. Esta política explica qué información se trata en la versión actual del juego, para qué y con quién se comparte. Para cualquier consulta sobre privacidad puedes escribir a [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com).
 
 **En resumen**
 
 - No hace falta crear una cuenta y no te pedimos tu nombre, tu correo ni otros datos personales. No hay chat ni juego en línea con otras personas.
 - Tu progreso y tus ajustes se guardan solo en tu dispositivo.
 - El juego es gratis y no tiene anuncios obligatorios: solo anuncios con recompensa de Google AdMob que tú eliges ver, y que pueden usar el identificador de publicidad del dispositivo según lo que elijas.
-- No usamos herramientas de estadísticas ni de análisis del uso del juego.
+- Medimos de forma estadística cómo se usa el juego con Google Analytics for Firebase, solo si lo permites.
 - La temporada 1 es gratis; las temporadas 2 a 5 y el pack de monedas se compran en Google Play: no recibimos los datos de tu método de pago.
 
 ## Datos guardados en tu dispositivo
@@ -30,6 +30,12 @@ Si estás en el Espacio Económico Europeo, el Reino Unido o Suiza, antes de mos
 
 También puedes restablecer o eliminar el identificador de publicidad desde los ajustes de Android. Más información sobre cómo usa Google los datos en [Cómo utiliza Google la información de sitios web o aplicaciones que utilizan sus servicios](https://policies.google.com/technologies/partner-sites?hl=es) y en la [Política de privacidad de Google](https://policies.google.com/privacy?hl=es).
 
+## Estadísticas de uso
+
+El juego que se descarga de Google Play usa Google Analytics for Firebase, un servicio de Google, para saber de forma estadística cómo se juega y medir la eficacia de nuestras campañas de publicidad del juego. Registra, por ejemplo, la primera apertura, las sesiones y su duración, los niveles ganados y perdidos, los capítulos terminados, los anuncios con recompensa vistos y las compras hechas en Google Play. Para ello, el SDK de Firebase trata un identificador de instancia de la aplicación, el identificador de publicidad del dispositivo, la dirección IP (de la que se deduce una ubicación aproximada), información técnica del dispositivo y del sistema y esos eventos del juego.
+
+La medición solo se activa si lo permites en el formulario de privacidad de Google que muestra el juego, y puedes cambiar tu elección en **Ajustes › Privacidad de los anuncios**. LSM Games Studio consulta estos datos de forma agregada en la consola de Firebase y en Google Ads; no te pedimos datos para identificarte ni los usamos para ello. Más información en [Cómo utiliza Google la información de sitios web o aplicaciones que utilizan sus servicios](https://policies.google.com/technologies/partner-sites?hl=es).
+
 ## Compras dentro del juego
 
 El juego es gratis y la temporada 1 se juega entera sin pagar. Las temporadas 2 a 5 se pueden desbloquear con pagos únicos a través de Google Play, cada temporada por separado o las cuatro juntas, y también se puede comprar un pack de 500 monedas. Google procesa el pago según sus propias condiciones y su política de privacidad; LSM Games Studio no recibe los datos de tu tarjeta ni de tu método de pago. Google Play nos facilita la información del pedido necesaria para gestionarlo, como el identificador del pedido, el producto, la fecha, el importe y el país. Lo comprado se añade a tu partida, guardada en tu dispositivo, y si reinstalas el juego Google Play restaura las temporadas que compraste con tu cuenta de Google.
@@ -44,7 +50,7 @@ El juego usa el acceso a Internet y al estado de la red, el permiso de facturaci
 
 ## Bases legales
 
-Los datos se tratan para gestionar la compra que solicitas, con tu consentimiento para los anuncios personalizados, y por interés legítimo para mostrar anuncios no personalizados, medirlos y prevenir el fraude.
+Los datos se tratan para gestionar la compra que solicitas, con tu consentimiento para los anuncios personalizados y las estadísticas de uso, y por interés legítimo para mostrar anuncios no personalizados, medirlos y prevenir el fraude.
 
 ## Transferencias internacionales
 
@@ -52,7 +58,7 @@ Google y Unity pueden tratar datos fuera del Espacio Económico Europeo. Estas e
 
 ## Conservación y eliminación
 
-El progreso y los ajustes se conservan en tu dispositivo hasta que borras los datos de la aplicación o la desinstalas. Puedes borrarlos desde los ajustes de Android, en la sección de almacenamiento de la aplicación; esta acción elimina el progreso guardado. Los datos que tratan Google y Unity se conservan según sus propias políticas, y la información de las compras, el tiempo que exijan las obligaciones legales y fiscales.
+El progreso y los ajustes se conservan en tu dispositivo hasta que borras los datos de la aplicación o la desinstalas. Puedes borrarlos desde los ajustes de Android, en la sección de almacenamiento de la aplicación; esta acción elimina el progreso guardado. Las estadísticas de uso de Google Analytics for Firebase se conservan como máximo 14 meses. Los demás datos que tratan Google y Unity se conservan según sus propias políticas, y la información de las compras, el tiempo que exijan las obligaciones legales y fiscales.
 
 ## Menores
 
@@ -60,7 +66,7 @@ Memory Workshop: Match 3 no está dirigido a menores de 13 años y no recoge a s
 
 ## Tus derechos
 
-Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad, y retirar tu consentimiento, escribiendo a [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com). Tu partida se guarda solo en tu dispositivo y no la tenemos en nuestros servidores; si tu solicitud afecta a datos que tratan Google o Unity, te indicaremos cómo dirigirte a ellos. También puedes presentar una reclamación ante la autoridad de protección de datos de tu país; en España, la [Agencia Española de Protección de Datos](https://www.aepd.es).
+Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad, y retirar tu consentimiento, escribiendo a [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com). Tu partida se guarda solo en tu dispositivo y no la tenemos en nuestros servidores, y las estadísticas de uso son seudónimas y no podemos relacionarlas contigo sin información adicional; si tu solicitud afecta a datos que tratan Google o Unity, te indicaremos cómo dirigirte a ellos. También puedes presentar una reclamación ante la autoridad de protección de datos de tu país; en España, la [Agencia Española de Protección de Datos](https://www.aepd.es).
 
 ## Comunicación por correo electrónico
 
@@ -83,14 +89,14 @@ LSM Games Studio\
 
 ## Who we are
 
-LSM Games Studio is the developer of Memory Workshop: Match 3 (in Spanish, El taller de los Recuerdos), a narrative match-3 puzzle game where you match gems to restore jewels for the clients of your grandmother's workshop, unlock memories in an album and restore the workshop's furniture. This policy explains what information the current version of the game handles, why, and who it is shared with. For any privacy question, write to [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com).
+LSM Games Studio is the developer of Memory Workshop: Match 3 (in Spanish, El taller de los Recuerdos), a story told in chapters, like a book, that you unlock by playing: you match gems to repair the jewels customers bring to your grandmother's workshop, and every level you beat opens a new memory, a page of the album and, in the end, the next chapter. This policy explains what information the current version of the game handles, why, and who it is shared with. For any privacy question, write to [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com).
 
 **In short**
 
 - You don't need an account, and we don't ask for your name, email or any other personal data. There is no chat or online play with other people.
 - Your progress and settings are stored only on your device.
 - The game is free and has no forced ads: only Google AdMob rewarded ads that you choose to watch, which may use your device's advertising ID depending on your choices.
-- We don't use any statistics or analytics tools to measure how the game is used.
+- We measure how the game is used, in aggregate, with Google Analytics for Firebase, only if you allow it.
 - Season 1 is free; Seasons 2 to 5 and the coin pack are bought on Google Play: we never receive your payment details.
 
 ## Data stored on your device
@@ -107,6 +113,12 @@ If you are in the European Economic Area, the United Kingdom or Switzerland, the
 
 You can also reset or delete your advertising ID in Android settings. Learn more in [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites?hl=en) and in the [Google Privacy Policy](https://policies.google.com/privacy?hl=en).
 
+## Usage statistics
+
+The game downloaded from Google Play uses Google Analytics for Firebase, a Google service, to understand in aggregate how the game is played and to measure how well our ads for the game work. It records, for example, the first launch, sessions and their length, the levels won and lost, the chapters finished, the rewarded ads watched and purchases made on Google Play. To do this, the Firebase SDK processes an app instance ID, your device's advertising ID, your IP address (from which an approximate location is inferred), technical information about your device and system, and those game events.
+
+Measurement is only turned on if you allow it in the Google privacy form the game shows, and you can change your choice in **Settings › Ad privacy**. LSM Games Studio looks at this data in aggregate in the Firebase console and in Google Ads; we don't ask for data to identify you and don't use it to do so. Learn more in [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites?hl=en).
+
 ## In-game purchases
 
 The game is free and Season 1 can be played in full without paying. Seasons 2 to 5 can be unlocked with one-time payments through Google Play, each season separately or all four together, and you can also buy a pack of 500 coins. Google processes the payment under its own terms and privacy policy; LSM Games Studio never receives your card or payment details. Google Play gives us the order information needed to manage it, such as the order ID, product, date, amount and country. What you buy is added to your game, saved on your device, and if you reinstall the game Google Play restores the seasons you bought with your Google account.
@@ -121,7 +133,7 @@ The game uses internet and network state access, the Google Play billing permiss
 
 ## Legal bases
 
-Data is processed to handle the purchase you request, with your consent for personalized ads, and on the basis of legitimate interest to show non-personalized ads, measure them and prevent fraud.
+Data is processed to handle the purchase you request, with your consent for personalized ads and usage statistics, and on the basis of legitimate interest to show non-personalized ads, measure them and prevent fraud.
 
 ## International transfers
 
@@ -129,7 +141,7 @@ Google and Unity may process data outside the European Economic Area. These comp
 
 ## Retention and deletion
 
-Your progress and settings stay on your device until you clear the app's data or uninstall it. You can clear them in Android settings, under the app's storage section; this deletes your saved progress. Data processed by Google and Unity is kept according to their own policies, and purchase information for as long as legal and tax obligations require.
+Your progress and settings stay on your device until you clear the app's data or uninstall it. You can clear them in Android settings, under the app's storage section; this deletes your saved progress. Usage statistics in Google Analytics for Firebase are kept for at most 14 months. Other data processed by Google and Unity is kept according to their own policies, and purchase information for as long as legal and tax obligations require.
 
 ## Children
 
@@ -137,7 +149,7 @@ Memory Workshop: Match 3 is not directed at children under 13 and does not knowi
 
 ## Your rights
 
-You can exercise your rights of access, rectification, erasure, objection, restriction and portability, and withdraw your consent, by writing to [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com). Your game is saved only on your device and we don't keep it on our servers; if your request concerns data processed by Google or Unity, we will tell you how to reach them. You can also lodge a complaint with the data protection authority in your country; in Spain, the [Agencia Española de Protección de Datos](https://www.aepd.es).
+You can exercise your rights of access, rectification, erasure, objection, restriction and portability, and withdraw your consent, by writing to [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com). Your game is saved only on your device and we don't keep it on our servers, and usage statistics are pseudonymous and we cannot link them to you without additional information; if your request concerns data processed by Google or Unity, we will tell you how to reach them. You can also lodge a complaint with the data protection authority in your country; in Spain, the [Agencia Española de Protección de Datos](https://www.aepd.es).
 
 ## Email
 
