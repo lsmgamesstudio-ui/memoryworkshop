@@ -1,12 +1,12 @@
-# Política de privacidad de Memory Workshop: Match 3
+# Política de privacidad de The Memory Workshop: Match 3
 
 LSM Games Studio · *Última actualización: 26 de octubre de 2026*
 
-**Español** · [English](#memory-workshop-match-3-privacy-policy)
+**Español** · [English](#the-memory-workshop-match-3-privacy-policy)
 
 ## Responsable y contacto
 
-LSM Games Studio es el desarrollador de Memory Workshop: Match 3 (en español, El taller de los Recuerdos), una historia por capítulos, como un libro, que vas desbloqueando al jugar: juntas gemas iguales para reparar las joyas que traen los clientes al taller de tu abuela, y cada nivel superado te abre un recuerdo nuevo, una página del álbum y, al final, el siguiente capítulo. Esta política explica qué información se trata en la versión actual del juego, para qué y con quién se comparte. Para cualquier consulta sobre privacidad puedes escribir a [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com).
+LSM Games Studio es el desarrollador de The Memory Workshop: Match 3 (en español, El taller de los Recuerdos), una historia por capítulos, como un libro, que vas desbloqueando al jugar: juntas gemas iguales para reparar las joyas que traen los clientes al taller de tu abuela, y cada nivel superado te abre un recuerdo nuevo, una página del álbum y, al final, el siguiente capítulo. Esta política explica qué información se trata en la versión actual del juego, para qué y con quién se comparte. Para cualquier consulta sobre privacidad puedes escribir a [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com).
 
 **En resumen**
 
@@ -24,7 +24,7 @@ Si tienes activada la copia de seguridad de Android, el sistema puede incluir es
 
 ## Publicidad
 
-Memory Workshop: Match 3 muestra anuncios de Google AdMob, un servicio de Google, de un solo tipo: anuncios opcionales con recompensa, que solo se ven si tú eliges verlos a cambio de un premio (cinco movimientos más al perder un nivel, una vez por intento; 100 monedas una vez al día en la tienda, o duplicar las monedas al terminar un capítulo). No hay anuncios obligatorios: ni anuncios intersticiales ni banners. Para mostrar y medir los anuncios, limitar cuántas veces se ven y prevenir el fraude, el SDK de anuncios de Google puede recoger y enviar a Google el identificador de publicidad del dispositivo, la dirección IP (de la que se deduce una ubicación aproximada), información técnica del dispositivo y del sistema, datos de diagnóstico y tus interacciones con los anuncios.
+The Memory Workshop: Match 3 muestra anuncios de Google AdMob, un servicio de Google, de un solo tipo: anuncios opcionales con recompensa, que solo se ven si tú eliges verlos a cambio de un premio (cinco movimientos más al perder un nivel, una vez por intento; 100 monedas una vez al día en la tienda, o duplicar las monedas al terminar un capítulo). No hay anuncios obligatorios: ni anuncios intersticiales ni banners. Para mostrar y medir los anuncios, limitar cuántas veces se ven y prevenir el fraude, el SDK de anuncios de Google puede recoger y enviar a Google el identificador de publicidad del dispositivo, la dirección IP (de la que se deduce una ubicación aproximada), información técnica del dispositivo y del sistema, datos de diagnóstico y tus interacciones con los anuncios.
 
 Si estás en el Espacio Económico Europeo, el Reino Unido o Suiza, antes de mostrar anuncios el juego te pide el consentimiento con el formulario de privacidad de Google. Si no aceptas los anuncios personalizados, Google puede mostrar anuncios no personalizados, basados en el contexto y no en tu perfil. Puedes cambiar tu elección cuando quieras en **Ajustes › Privacidad de los anuncios**, opción que aparece cuando la normativa de tu región lo exige.
 
@@ -48,7 +48,7 @@ El juego también puede mostrar la ventana de valoración de Google Play (In-App
 
 ## Servicios técnicos de terceros
 
-Memory Workshop: Match 3 está hecho con el motor Unity, y las compras en el juego usan Unity In-App Purchasing y Unity Gaming Services, de Unity Technologies. Para que funcionen, Unity puede tratar datos técnicos limitados de la compra y del dispositivo, como el modelo del dispositivo, la versión del sistema, un identificador de instalación aleatorio y datos de diagnóstico. Más información en la [política de privacidad de Unity para jugadores](https://unity.com/legal/game-player-and-app-user-privacy-policy).
+The Memory Workshop: Match 3 está hecho con el motor Unity, y las compras en el juego usan Unity In-App Purchasing y Unity Gaming Services, de Unity Technologies. Para que funcionen, Unity puede tratar datos técnicos limitados de la compra y del dispositivo, como el modelo del dispositivo, la versión del sistema, un identificador de instalación aleatorio y datos de diagnóstico. Más información en la [política de privacidad de Unity para jugadores](https://unity.com/legal/game-player-and-app-user-privacy-policy).
 
 ## Permisos
 
@@ -68,7 +68,7 @@ El progreso y los ajustes se conservan en tu dispositivo hasta que borras los da
 
 ## Menores
 
-Memory Workshop: Match 3 no está dirigido a menores de 13 años y no recoge a sabiendas datos personales de niños. Si crees que un menor nos ha enviado datos personales, escríbenos y los eliminaremos.
+The Memory Workshop: Match 3 no está dirigido a menores de 13 años y no recoge a sabiendas datos personales de niños. Si crees que un menor nos ha enviado datos personales, escríbenos y los eliminaremos.
 
 ## Tus derechos
 
@@ -89,13 +89,13 @@ LSM Games Studio\
 
 ---
 
-# Memory Workshop: Match 3 privacy policy
+# The Memory Workshop: Match 3 privacy policy
 
 *Last updated: October 26, 2026*
 
 ## Who we are
 
-LSM Games Studio is the developer of Memory Workshop: Match 3 (in Spanish, El taller de los Recuerdos), a story told in chapters, like a book, that you unlock by playing: you match gems to repair the jewels customers bring to your grandmother's workshop, and every level you beat opens a new memory, a page of the album and, in the end, the next chapter. This policy explains what information the current version of the game handles, why, and who it is shared with. For any privacy question, write to [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com).
+LSM Games Studio is the developer of The Memory Workshop: Match 3 (in Spanish, El taller de los Recuerdos), a story told in chapters, like a book, that you unlock by playing: you match gems to repair the jewels customers bring to your grandmother's workshop, and every level you beat opens a new memory, a page of the album and, in the end, the next chapter. This policy explains what information the current version of the game handles, why, and who it is shared with. For any privacy question, write to [lsmgamesstudio@gmail.com](mailto:lsmgamesstudio@gmail.com).
 
 **In short**
 
@@ -113,7 +113,7 @@ If Android backup is turned on, the system may include this data in your Google 
 
 ## Advertising
 
-Memory Workshop: Match 3 shows ads from Google AdMob, a Google service, of one kind only: optional rewarded ads, which you only see if you choose to watch one in exchange for a reward (five extra moves after losing a level, once per attempt; 100 coins once a day in the shop; or doubling your coins at the end of a chapter). There are no forced ads: no interstitial ads and no banners. To serve and measure ads, cap how often you see them and prevent fraud, Google's ads SDK may collect and send to Google your device's advertising ID, your IP address (from which an approximate location is inferred), technical information about your device and system, diagnostics and your interactions with ads.
+The Memory Workshop: Match 3 shows ads from Google AdMob, a Google service, of one kind only: optional rewarded ads, which you only see if you choose to watch one in exchange for a reward (five extra moves after losing a level, once per attempt; 100 coins once a day in the shop; or doubling your coins at the end of a chapter). There are no forced ads: no interstitial ads and no banners. To serve and measure ads, cap how often you see them and prevent fraud, Google's ads SDK may collect and send to Google your device's advertising ID, your IP address (from which an approximate location is inferred), technical information about your device and system, diagnostics and your interactions with ads.
 
 If you are in the European Economic Area, the United Kingdom or Switzerland, the game asks for your consent with Google's privacy form before showing ads. If you don't accept personalized ads, Google may show non-personalized ads, based on context rather than on your profile. You can change your choice at any time in **Settings › Ad privacy**, which appears when the rules in your region require it.
 
@@ -137,7 +137,7 @@ The game may also show Google Play's rating window (In-App Review) so you can ra
 
 ## Third-party technical services
 
-Memory Workshop: Match 3 is built with the Unity engine, and in-game purchases use Unity In-App Purchasing and Unity Gaming Services by Unity Technologies. To make them work, Unity may process limited technical data about the purchase and the device, such as your device model, system version, a random installation ID and diagnostics. Learn more in [Unity's privacy policy for game players](https://unity.com/legal/game-player-and-app-user-privacy-policy).
+The Memory Workshop: Match 3 is built with the Unity engine, and in-game purchases use Unity In-App Purchasing and Unity Gaming Services by Unity Technologies. To make them work, Unity may process limited technical data about the purchase and the device, such as your device model, system version, a random installation ID and diagnostics. Learn more in [Unity's privacy policy for game players](https://unity.com/legal/game-player-and-app-user-privacy-policy).
 
 ## Permissions
 
@@ -157,7 +157,7 @@ Your progress and settings stay on your device until you clear the app's data or
 
 ## Children
 
-Memory Workshop: Match 3 is not directed at children under 13 and does not knowingly collect personal data from children. If you believe a child has sent us personal data, write to us and we will delete it.
+The Memory Workshop: Match 3 is not directed at children under 13 and does not knowingly collect personal data from children. If you believe a child has sent us personal data, write to us and we will delete it.
 
 ## Your rights
 
