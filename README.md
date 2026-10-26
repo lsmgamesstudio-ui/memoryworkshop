@@ -1,6 +1,6 @@
 # Política de privacidad de Memory Workshop: Match 3
 
-LSM Games Studio · *Última actualización: 25 de octubre de 2026*
+LSM Games Studio · *Última actualización: 26 de octubre de 2026*
 
 **Español** · [English](#memory-workshop-match-3-privacy-policy)
 
@@ -14,11 +14,11 @@ LSM Games Studio es el desarrollador de Memory Workshop: Match 3 (en español, E
 - Tu progreso y tus ajustes se guardan solo en tu dispositivo.
 - El juego es gratis y no tiene anuncios obligatorios: solo anuncios con recompensa de Google AdMob que tú eliges ver, y que pueden usar el identificador de publicidad del dispositivo según lo que elijas.
 - Medimos de forma estadística cómo se usa el juego con Google Analytics for Firebase, solo si lo permites.
-- La temporada 1 es gratis; las temporadas 2 a 5 y el pack de monedas se compran en Google Play: no recibimos los datos de tu método de pago.
+- La temporada 1 es gratis; las temporadas 2 a 5 se compran en Google Play: no recibimos los datos de tu método de pago.
 
 ## Datos guardados en tu dispositivo
 
-El juego guarda en tu dispositivo tu progreso (los capítulos y niveles completados, los recuerdos y fragmentos leídos, las páginas del álbum, las fases de las joyas y los proyectos del taller que has restaurado), tus monedas y estrellas, tus herramientas (pincel, martillo, prisma, lupa, pinzas y reloj), los retos diarios, tus ajustes (música, efectos de sonido, movimiento reducido, símbolos en las gemas, tamaño del texto e idioma), las temporadas compradas y las compras que ya se han entregado, y la fecha en que recogiste las monedas diarias con recompensa, para que puedas seguir jugando y conservar tus preferencias, también sin conexión. Esta información no se envía a LSM Games Studio.
+El juego guarda en tu dispositivo tu progreso (los capítulos y niveles completados, los recuerdos y fragmentos leídos, las páginas del álbum, las fases de las joyas y los proyectos del taller que has restaurado), tus monedas y estrellas, tus herramientas (pincel, martillo, prisma, lupa, pinzas y reloj), los retos diarios, tus ajustes (música, efectos de sonido, movimiento reducido, símbolos en las gemas, tamaño del texto e idioma), las temporadas compradas y las compras que ya se han entregado, la fecha en que recogiste las monedas diarias con recompensa, la racha del regalo diario y los logros ya enviados a Google Play Juegos, para que puedas seguir jugando y conservar tus preferencias, también sin conexión. Esta información no se envía a LSM Games Studio.
 
 Si tienes activada la copia de seguridad de Android, el sistema puede incluir estos datos en la copia de tu cuenta de Google, cifrada y gestionada por Google, para recuperarlos si cambias de móvil. Puedes desactivarla en los ajustes de Android.
 
@@ -38,7 +38,13 @@ La medición solo se activa si lo permites en el formulario de privacidad de Goo
 
 ## Compras dentro del juego
 
-El juego es gratis y la temporada 1 se juega entera sin pagar. Las temporadas 2 a 5 se pueden desbloquear con pagos únicos a través de Google Play, cada temporada por separado o las cuatro juntas, y también se puede comprar un pack de 500 monedas. Google procesa el pago según sus propias condiciones y su política de privacidad; LSM Games Studio no recibe los datos de tu tarjeta ni de tu método de pago. Google Play nos facilita la información del pedido necesaria para gestionarlo, como el identificador del pedido, el producto, la fecha, el importe y el país. Lo comprado se añade a tu partida, guardada en tu dispositivo, y si reinstalas el juego Google Play restaura las temporadas que compraste con tu cuenta de Google.
+El juego es gratis y la temporada 1 se juega entera sin pagar. Las temporadas 2 a 5 se pueden desbloquear con pagos únicos a través de Google Play, cada temporada por separado o las cuatro juntas. Google procesa el pago según sus propias condiciones y su política de privacidad; LSM Games Studio no recibe los datos de tu tarjeta ni de tu método de pago. Google Play nos facilita la información del pedido necesaria para gestionarlo, como el identificador del pedido, el producto, la fecha, el importe y el país. Lo comprado se añade a tu partida, guardada en tu dispositivo, y si reinstalas el juego Google Play restaura las temporadas que compraste con tu cuenta de Google.
+
+## Google Play Juegos y valoraciones
+
+El juego usa los Servicios de Juegos de Google Play para los logros: al abrirlo, inicia sesión automáticamente con tu perfil de Google Play Juegos si lo tienes en el dispositivo, y marca los logros de los capítulos y temporadas que has terminado. Para ello Google trata tu identificador de jugador, tu nombre y avatar de Google Play Juegos y el progreso de tus logros, según su [política de privacidad](https://policies.google.com/privacy?hl=es); LSM Games Studio no recibe tu nombre ni tu correo. Puedes gestionar tu perfil, su visibilidad o desactivarlo en la aplicación de Google Play Juegos.
+
+El juego también puede mostrar la ventana de valoración de Google Play (In-App Review) para que puntúes el juego sin salir de él. La valoración y la reseña las gestiona Google Play con tu cuenta de Google y se publican según sus condiciones; el juego no recibe tu puntuación ni tu reseña.
 
 ## Servicios técnicos de terceros
 
@@ -85,7 +91,7 @@ LSM Games Studio\
 
 # Memory Workshop: Match 3 privacy policy
 
-*Last updated: October 25, 2026*
+*Last updated: October 26, 2026*
 
 ## Who we are
 
@@ -97,11 +103,11 @@ LSM Games Studio is the developer of Memory Workshop: Match 3 (in Spanish, El ta
 - Your progress and settings are stored only on your device.
 - The game is free and has no forced ads: only Google AdMob rewarded ads that you choose to watch, which may use your device's advertising ID depending on your choices.
 - We measure how the game is used, in aggregate, with Google Analytics for Firebase, only if you allow it.
-- Season 1 is free; Seasons 2 to 5 and the coin pack are bought on Google Play: we never receive your payment details.
+- Season 1 is free; Seasons 2 to 5 are bought on Google Play: we never receive your payment details.
 
 ## Data stored on your device
 
-The game stores on your device your progress (the chapters and levels completed, the memories and fragments read, the album pages, the jewel phases and the workshop projects you have restored), your coins and stars, your tools (brush, hammer, prism, magnifier, tweezers and clock), the daily challenges, your settings (music, sound effects, reduced motion, gem symbols, text size and language), the seasons purchased and the purchases already delivered, and the date you last collected the daily rewarded coins, so you can keep playing and keep your preferences, even offline. This information is not sent to LSM Games Studio.
+The game stores on your device your progress (the chapters and levels completed, the memories and fragments read, the album pages, the jewel phases and the workshop projects you have restored), your coins and stars, your tools (brush, hammer, prism, magnifier, tweezers and clock), the daily challenges, your settings (music, sound effects, reduced motion, gem symbols, text size and language), the seasons purchased and the purchases already delivered, the date you last collected the daily rewarded coins, your daily gift streak and the achievements already sent to Google Play Games, so you can keep playing and keep your preferences, even offline. This information is not sent to LSM Games Studio.
 
 If Android backup is turned on, the system may include this data in your Google account backup, encrypted and managed by Google, so it can be restored if you switch phones. You can turn it off in Android settings.
 
@@ -121,7 +127,13 @@ Measurement is only turned on if you allow it in the Google privacy form the gam
 
 ## In-game purchases
 
-The game is free and Season 1 can be played in full without paying. Seasons 2 to 5 can be unlocked with one-time payments through Google Play, each season separately or all four together, and you can also buy a pack of 500 coins. Google processes the payment under its own terms and privacy policy; LSM Games Studio never receives your card or payment details. Google Play gives us the order information needed to manage it, such as the order ID, product, date, amount and country. What you buy is added to your game, saved on your device, and if you reinstall the game Google Play restores the seasons you bought with your Google account.
+The game is free and Season 1 can be played in full without paying. Seasons 2 to 5 can be unlocked with one-time payments through Google Play, each season separately or all four together. Google processes the payment under its own terms and privacy policy; LSM Games Studio never receives your card or payment details. Google Play gives us the order information needed to manage it, such as the order ID, product, date, amount and country. What you buy is added to your game, saved on your device, and if you reinstall the game Google Play restores the seasons you bought with your Google account.
+
+## Google Play Games and ratings
+
+The game uses Google Play Games Services for achievements: when you open it, it signs in automatically with your Google Play Games profile if you have one on the device, and unlocks the achievements for the chapters and seasons you have finished. For this, Google processes your player ID, your Google Play Games name and avatar and your achievement progress, under its [privacy policy](https://policies.google.com/privacy?hl=en); LSM Games Studio does not receive your name or email address. You can manage your profile, its visibility or turn it off in the Google Play Games app.
+
+The game may also show Google Play's rating window (In-App Review) so you can rate the game without leaving it. Ratings and reviews are handled by Google Play with your Google account and published under its terms; the game never receives your rating or review.
 
 ## Third-party technical services
 
